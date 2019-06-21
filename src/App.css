@@ -19,6 +19,11 @@
   color: white;
 }
 
+.App-header > p {
+  transform: rotate(90deg) translateX(-50%);
+  transform-origin: left center;
+}
+
 .App-link {
   color: #61dafb;
 }
